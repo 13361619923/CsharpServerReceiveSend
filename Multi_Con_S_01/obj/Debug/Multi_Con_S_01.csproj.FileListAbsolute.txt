@@ -1,0 +1,10 @@
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\obj\Debug\Multi_Con_S_01.csproj.AssemblyReference.cache
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\obj\Debug\Multi_Con_S_01.csproj.SuggestedBindingRedirects.cache
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\obj\Debug\Multi_Con_S_01.csproj.CoreCompileInputs.cache
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\bin\Debug\Multi_Con_S_01.exe.config
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\bin\Debug\Multi_Con_S_01.exe
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\bin\Debug\Multi_Con_S_01.pdb
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\obj\Debug\Multi_Con_S_01.exe
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\obj\Debug\Multi_Con_S_01.pdb
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\obj\Debug\Multi_Con_S_01.Main.resources
+D:\file\winform_Project\Multi_Con_S\Multi_Con_S_01\obj\Debug\Multi_Con_S_01.csproj.GenerateResource.cache
